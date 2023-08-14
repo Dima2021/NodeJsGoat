@@ -4,6 +4,9 @@
   "workflowRules": {
       "enabled": true
   },
+  "leastVulnerablePackageSettings": {                
+      "enabled": true
+  },
   "enableRenovate": true,
   "extends": [
       "config:base",
